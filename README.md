@@ -10,4 +10,8 @@ Este repositório é destinado à resolução dos exercícios oferecidos pela em
 
 ### `npm start`
 
+<p align="center"> <img src="/readme/gif1.gif"/></p>
+
 2. Abra [http://localhost:3000](http://localhost:3000) para ver o projeto
+
+<p align="center"> <img src="/readme/gif2.gif"/></p>
