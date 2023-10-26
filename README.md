@@ -15,3 +15,6 @@ Este repositório é destinado à resolução dos exercícios oferecidos pela em
 2. Abra [http://localhost:3000](http://localhost:3000) para ver o projeto
 
 <p align="center"> <img src="/readme/gif2.gif"/></p>
+
+<p align="center"> <img src="/readme/gif3.gif"/></p>
+
